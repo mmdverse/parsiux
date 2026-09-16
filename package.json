@@ -2,6 +2,7 @@
   "name": "parsiux",
   "version": "0.1.1",
   "description": "Persian-first UI/UX intelligence and RTL audit CLI for AI coding assistants",
+  "license": "MIT",
   "type": "module",
   "bin": {
     "parsiux": "dist/src/cli.js"
@@ -12,7 +13,8 @@
     "templates",
     "README.md",
     "CHANGELOG.md",
-    "NOTICE.md"
+    "NOTICE.md",
+    "LICENSE"
   ],
   "scripts": {
     "build": "node -e \"require('fs').rmSync('dist',{recursive:true,force:true})\" && tsc -p tsconfig.build.json",
