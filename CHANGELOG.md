@@ -1,5 +1,9 @@
 # تغییرات ParsiUX
 
+## Unreleased
+
+- افزودن فایل `LICENSE` (MIT) و فیلد `license` در `package.json`، به‌همراه اضافه‌شدن مجوز به فایل‌های منتشرشده روی npm
+
 ## v0.1.1 — ۱۷ اوت ۲۰۲۶
 
 انتشار maintenance برای کامل‌کردن distribution عمومی.
